@@ -10,7 +10,7 @@
     "type": "git",
     "url": ""
   },
-  "author": "",
+  "author": "anupam",
   "license": "ISC",
   "dependencies": {
     "body-parser": "^1.18.3",
